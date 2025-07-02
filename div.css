@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(231, 226, 219);
+    margin: 0;
+    padding: 0;
+}
+.top{
+   background-color: white;
+   height: 60px;
+   margin: 0px;
+   padding: 0px;
+}
+.profile{
+    background-color: white;
+    border-radius: 10px;
+    height: 250px;
+    width: 200px;
+    margin: 150px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.prof_top{
+    background-color:grey;
+    height: 50px;
+    width: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.viewers{
+    background-color: white;
+    border-radius: 10px;
+    height:100px ;
+    width: 200px;
+    margin: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.premium{
+    background-color:white;
+    border-radius: 10px;
+    height: 75px;
+    width: 200px;
+    margin: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.saved{
+    background-color:white;
+    border-radius: 10px;
+    height: 175px;
+    width: 200px;
+    margin: 150px;
+    margin-top: 10px;
+}
+.prof_pic{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: -25px;
+    margin-left:15px;
+}
+.name{
+    padding-left: 10px;
+    font-size: x-large;
+    margin: 0;
+}
+.bio{
+    padding-left: 10px;
+    margin: 4px;
+}
+.place{
+    padding-left: 10px;
+    margin: 4px;
+}
+.institute{
+    padding-left: 10px;
+    margin: 4px;
+}
+.startpost{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 150px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.search_bar{
+    width: 300px;
+    height: 20px;
+    margin-left: 230px;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px;
+}
+.home{
+    position: absolute;
+    top: 35px;
+    left: 600px;
+}
+.network{
+    position: absolute;
+    top: 35px;
+    left: 700px;
+}
+.jobs{
+    position: absolute;
+    top: 35px;
+    left: 800px;
+}
+.message{
+    position: absolute;
+    top: 35px;
+    left: 900px;
+}
+.notification{
+    position: absolute;
+    top: 35px;
+    left: 1000px;
+}
